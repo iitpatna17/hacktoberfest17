@@ -1,4 +1,4 @@
-#### Name: [RajBroo](GitHub link)
-- Place: Patna, Bihar, India
-- Bio: My name is Rajneesh Singh. This is my first PR on GITHUB.
-- GitHub: [RajBroo](https://github.com/RajBroo)
+#### Name: [KEDHAR GUHAN](https://github.com/KedharGuhan)
+- Place: Mumbai, Maharashtra, India
+- Bio: Hi I am Kedhar and this is my test PR
+- GitHub: [KedharGuhan](https://github.com/KedharGuhan)
