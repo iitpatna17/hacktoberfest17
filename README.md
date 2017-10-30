@@ -14,17 +14,17 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 Sign up here [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
 
-## Check your hacktoberfest contributions at: 
- [https://hacktoberfest.digitalocean.com/stats](https://hacktoberfest.digitalocean.com/stats/meets2tarun)
+## Check your hacktoberfest contributions at:
+ [https://hacktoberfest.digitalocean.com/stats/your-username](https://hacktoberfest.digitalocean.com/stats/your-username)
 
  ## How to contribute to this project
-Here are 3 quick and painless ways to contribute to this project:
+Here are 4 quick and painless ways to contribute to this project:
 
 * Add your name to the `CONTRIBUTORS.md` file
 * Add a profile page to the `profiles` directory
 * Create a simple "Hello, World" script in a language of your choice or a program
 
-Choose one or all 3, make a pull request for your work and wait for it to be merged!
+Choose one or all 4, make pull requests for your work and wait for it to be merged!
 
 ## Getting started
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
@@ -33,6 +33,11 @@ Choose one or all 3, make a pull request for your work and wait for it to be mer
 ```markdown
 git clone https://github.com/your-username/hacktoberfest17.git
 ```
+* Change directory
+
+```markdown
+cd hacktoberfest17
+```
 
 * Create a branch
 
@@ -40,7 +45,7 @@ git clone https://github.com/your-username/hacktoberfest17.git
 git checkout -b branch-name
 ```
 
-* Make your changes (choose from any task below)
+* Make your changes (choose from any task below) and make sure to make 4 different branches for 4 different PRs.
 * Commit and push
 
 ```markdown
@@ -111,9 +116,7 @@ Name the file `hello_world_yourusername.xx`. e.g., `hello_world_meets2tarun.js` 
 
 Don't forget to include the comments as seen above. Feel free to include additional information about the lanuage you choose in your comments, too, like a link to a helpful introduction or tutorial.
 
-[hello_world_meets2tarun.js](https://github.com/meets2tarun/hacktoberfest17/blob/master/scripts/hello_world_meets2tarun.js)
-
-###4. Create another program of your choice
+### 4. Create another program of your choice
 
 Thus it will complete 4 PRs and you will soon receive a link to claim a Tee of the fest.
 
