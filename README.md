@@ -1,6 +1,6 @@
 # HacktoberFest'17
 
-Just follow, make 4 PRs and win a cool a Tee and stickers.
+Just follow, make 4 PRs and win a cool Tee and stickers.
 
 Use this repo to make PR of the code in any language of your choice. 
 
