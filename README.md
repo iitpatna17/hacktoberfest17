@@ -15,7 +15,7 @@ Sign up here [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.dig
 
 
 ## Check your hacktoberfest contributions at:
- [https://hacktoberfest.digitalocean.com/stats](https://hacktoberfest.digitalocean.com/stats/meets2tarun)
+ [https://hacktoberfest.digitalocean.com/stats/your-username](https://hacktoberfest.digitalocean.com/stats/your-username)
 
  ## How to contribute to this project
 Here are 4 quick and painless ways to contribute to this project:
@@ -45,7 +45,7 @@ cd hacktoberfest17
 git checkout -b branch-name
 ```
 
-* Make your changes (choose from any task below)
+* Make your changes (choose from any task below) and make sure to make 4 different branches for 4 different PRs.
 * Commit and push
 
 ```markdown
